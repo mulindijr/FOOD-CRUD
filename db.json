@@ -1,0 +1,24 @@
+{
+  "foods": [
+    {
+      "name": "kuku",
+      "id": 1
+    },
+    {
+      "name": "Chicken",
+      "id": 2
+    },
+    {
+      "name": "Ugali",
+      "id": 6
+    },
+    {
+      "name": "Chapati",
+      "id": 7
+    },
+    {
+      "name": "Nyama Choma",
+      "id": 8
+    }
+  ]
+}
